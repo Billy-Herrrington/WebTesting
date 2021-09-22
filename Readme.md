@@ -65,9 +65,9 @@
 1. 1/4 частина екрану: назва компанії / логотипу.
 2. 3/4 частина екрану: Віджети зв'язку через соц. Мережі. Можливість в один клік перейти на сторінку.
 
-- Instagram;
-- Facebook;
-- Telegram;
+   - Instagram;
+   - Facebook;
+   - Telegram;
 3. 4/4 частина екрану: інформація про служби сторінки.
 
 <img src="https://i2.paste.pics/DYC7P.png" width="634" height="92" alt="Screenshot">
