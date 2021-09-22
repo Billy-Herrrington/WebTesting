@@ -1,22 +1,121 @@
-.body{
-    position: relative;
-    width: 1600px;
-    height: 2171px;
-
-    background: #EDEEF6;
-}
-
-.roby{
-    background: #fff;
-    color: #000;
-}
-
 .img{
     position: absolute;
     width: 100%;
     height: 100%;
     left: 1px;
     top: -74px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background: rgba(0, 0, 0, 0.26);
+    border-radius: 0px 0px 60px 60px;
     object-fit:cover;
+}
 
+.button_sign{
+    position: absolute;
+    width: 100px;
+    height: 41px;
+    left: 89%;
+    top: 30px;
+    background: rgba(205, 214, 219, 0);
+    border: 1px solid #7E7979;
+    box-sizing: border-box;
+    border-radius: 17px;
+    object-fit:cover;
+   
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+}
+
+.nut{
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 6%;
+    
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;   
+    border: 1px;
+}
+
+.button_home{
+    position: absolute;
+    width: 100px;
+    height: 41px;
+    right: 30%;
+    top: 30px;
+    background: rgba(205, 214, 219, 0);
+    border: 1px solid #7E7979;
+    box-sizing: border-box;
+    border-radius: 17px;
+   
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+}
+
+.button_exp{
+    position: absolute;
+    width: 100px;
+    height: 41px;
+    right: 22%;
+    top: 30px;
+    background: rgba(205, 214, 219, 0);
+    border: 1px solid #7E7979;
+    box-sizing: border-box;
+    border-radius: 17px;
+   
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+}
+
+.button_blog{
+    position: absolute;
+    width: 100px;
+    height: 41px;
+    left: 78.7%;
+    top: 30px;
+    background: rgba(205, 214, 219, 0);
+    border: 1px solid #7E7979;
+    box-sizing: border-box;
+    border-radius: 17px;
+   
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+}
+
+.choose_local{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
 }

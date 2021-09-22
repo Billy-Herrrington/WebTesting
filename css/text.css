@@ -1,0 +1,145 @@
+.div_travel{
+    position: absolute;
+    width: 572.68px;
+    height: 125px;
+    left: 8%;
+    top: 100px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 49px;
+    line-height: 62px;
+
+    letter-spacing: 0.005em;
+    
+    color: #FFFFFF;
+
+    transform: rotate(-0.56deg);
+
+}
+
+.size_text{
+    position: absolute;
+    width: 423px;
+    height: 60px;
+    left: 8%;
+    top: 223px;
+    text-shadow: 1px 1px #63676b;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: silver;
+}
+
+.logo{
+    position: absolute;
+    width: 50px;
+    height: 21px;
+    left: 4%;
+    top: 36px;
+
+    background: rgba(205, 214, 219, 0);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.div_search{
+    position: absolute;
+    width: 1050px;
+    height: 160px;
+    left: 242px;
+    top: 298px;
+
+    background: rgba(97, 97, 97, 0.8);
+    border-radius: 12px;  
+}
+
+.sc_text{
+    position: absolute;
+    width: 223px;
+    height: 30px;
+    left: 4%;
+    top: 18px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+}
+
+.name{
+    position: absolute;
+    width: 223px;
+    height: 36px;
+    left: 4%;
+    top: 80px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    line-height: 30px;
+
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+}
+
+.date{
+    position: absolute;
+    width: 223px;
+    height: 36px;
+    left: 26%;
+    top: 80px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    line-height: 30px;
+
+    letter-spacing: -0.02em;
+    color: #FFFFFF;    
+}
+
+.prise{
+    position: absolute;
+    width: 223px;
+    height: 36px;
+    left: 48%;
+    top: 80px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    line-height: 30px;
+
+    letter-spacing: -0.02em;
+    color: #FFFFFF;  
+}
+
+.btn_search{
+    position: absolute;
+    width: 123px;
+    height: 44px;
+    left: 75%;
+    top: 79px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    background: #B6C688;
+    border-radius: 14px;
+
+    letter-spacing: -0.02em;
+    color: #FFFFFF;  
+}
