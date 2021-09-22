@@ -29,9 +29,9 @@
 •	Посилання в шапці - 14px 
 •	Текст в футере - 16px
 
-<img src="https://i2.paste.pics/DYC6U.png" width="1600" height="2171" alt="Screenshot">
+<img src="https://i2.paste.pics/DYC6U.png" width="1400" height="2171" alt="Screenshot">
 
-<img src="https://i2.paste.pics/DYC83.png" width="1600" height="2171" alt="Screenshot">
+<img src="https://i2.paste.pics/DYC83.png" width="1400" height="2171" alt="Screenshot">
 
 В правому куті від логотипу, повинна розміщуватись меню і кнопка для реєстрації, в один рядок:
 
