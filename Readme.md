@@ -1,6 +1,6 @@
 # Технічне завдання 
 - Мета сайту
-  - <a href=#task1>наша місія</a> 
+  - <a href=https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%BD%D0%B0%D1%88%D0%B0-%D0%BC%D1%96%D1%81%D1%96%D1%8F>наша місія</a> 
   - нама мета
 
 - Вимоги до дизайну
