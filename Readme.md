@@ -62,7 +62,7 @@
 - дата / місяць / рік відправлення;
 - дата / місяць / рік повернення;
 
-<img src="http://i2.paste.pics/E6YEL.png" width="864" height="143" alt="Screenshot">
+<img src="http://i2.paste.pics/E6YEL.png" width="864" height="156" alt="Screenshot">
 
 ### Друга сторінка
 
