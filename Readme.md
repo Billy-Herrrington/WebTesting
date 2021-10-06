@@ -14,6 +14,7 @@
   - [Функціонал сайту](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB-%D1%81%D0%B0%D0%B9%D1%82%D1%83) 
  
 - [Вимоги до хостингу](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B4%D0%BE-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D1%83)
+- [Вимоги до SEO оптимизації ](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B4%D0%BE-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D1%83)
 
 ## Мета сайту
 Мета сайту полегшення продажу та швидкісного пошуку, бронювання та купівл ж/д квитків на поїзд онлайн.
