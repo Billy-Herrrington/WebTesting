@@ -73,7 +73,7 @@
 
 У третій сторінки сайту розміщено блок з обраним час, вартість і пункт призначення поїздки, а також можливість замовити за обраним квитком
 
-<img align="middle" src="http://i2.paste.pics/E6YIR.png" width="70%" height="1020>
+<img align="top" src="http://i2.paste.pics/E6YIR.png" width="70%" height="1020" alt="Screenshot">
 
 ### Футор
 Підвал сторінки містить:
