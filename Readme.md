@@ -61,19 +61,19 @@
 - дата / місяць / рік відправлення;
 - дата / місяць / рік повернення;
 
-<img src="http://i2.paste.pics/E6YH0.png" width="70%" height="1020" alt="Screenshot">
+<img src="http://i2.paste.pics/E6YH0.png" width="70%" height="980" alt="Screenshot">
 
 ### Друга сторінка
 
 У другому сторінки сайту розміщено варіанти можливих подорожів та план ж/д, у вигляді кілька блоків даних про країни і міст, які можна відвідати. Повинно бути два ряди по чотири країни. У кожному блоці має бути зазначено (країна, місто, вартість і кнопка).
 
-<img align="middle" src="http://i2.paste.pics/E6YHU.png" width="70%" height="1020" alt="Screenshot">
+<img align="middle" src="http://i2.paste.pics/E6YHU.png" width="70%" height="980" alt="Screenshot">
 
 ### Третя сторінка
 
 У третій сторінки сайту розміщено блок з обраним час, вартість і пункт призначення поїздки, а також можливість замовити за обраним квитком
 
-<img align="top" src="http://i2.paste.pics/E6YIR.png" width="70%" height="1020" alt="Screenshot">
+<img align="top" src="http://i2.paste.pics/E6YIR.png" width="70%" height="980" alt="Screenshot">
 
 ### Футор
 Підвал сторінки містить:
