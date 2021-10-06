@@ -6,6 +6,7 @@
 - <a href=https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B4%D0%BE-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D1%83>Вимоги до дизайну</a> 
   - [Перша сторінка](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%BF%D0%B5%D1%80%D1%88%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
   - [Друга сторінка](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B4%D1%80%D1%83%D0%B3%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
+  - [Третя сторінка](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B4%D1%80%D1%83%D0%B3%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
   - [Футор](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D1%84%D1%83%D1%82%D0%BE%D1%80)
 
 - [Вимоги до функціоналу](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B4%D0%BE-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%83)
@@ -62,6 +63,10 @@
 ### Друга сторінка
 
 У другому сторінки сайту розміщено варіанти можливих подорожів та план ж/д, у вигляді кілька блоків даних про країни і міст, які можна відвідати. Повинно бути два ряди по чотири країни. У кожному блоці має бути зазначено (країна, місто, вартість і кнопка).
+
+### Третя сторінка
+
+У третій сторінки сайту розміщено блок з обраним час, вартість і пункт призначення поїздки, а також можливість замовити за обраним квитка
 
 ### Футор
 Підвал сторінки містить:
