@@ -66,14 +66,14 @@
 
 У другому сторінки сайту розміщено варіанти можливих подорожів та план ж/д, у вигляді кілька блоків даних про країни і міст, які можна відвідати. Повинно бути два ряди по чотири країни. У кожному блоці має бути зазначено (країна, місто, вартість і кнопка).
 
-<img class=center src="http://i2.paste.pics/E6YHU.png" width="800" height="1220" alt="Screenshot">
-
-<style>.center {
+<style><img class=center src="http://i2.paste.pics/E6YHU.png" width="800" height="1220" alt="Screenshot">
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}</style>
+}
+</style>
 
 ### Третя сторінка
 
