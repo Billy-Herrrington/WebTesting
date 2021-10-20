@@ -190,7 +190,7 @@
 
 ### 5.2 Топ 5 ключові фрази:
 
-<table>
+<table border="1" cellspacing="0">
   <tr> 
     <td>id</td>
     <td>Ключові фрази</td>
