@@ -9,12 +9,12 @@
   - [2.3 Третя сторінка](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B4%D1%80%D1%83%D0%B3%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
   - [2.4 Футор](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D1%84%D1%83%D1%82%D0%BE%D1%80)
 
-- [Вимоги до функціоналу](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B4%D0%BE-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%83)
-  - [Стек технології](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D1%81%D1%82%D0%B5%D0%BA-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97)
-  - [Функціонал сайту](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB-%D1%81%D0%B0%D0%B9%D1%82%D1%83) 
+- [3.Вимоги до функціоналу](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B4%D0%BE-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%83)
+  - [3.1 Стек технології](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D1%81%D1%82%D0%B5%D0%BA-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97)
+  - [3.2 Функціонал сайту](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB-%D1%81%D0%B0%D0%B9%D1%82%D1%83) 
  
-- [Вимоги до хостингу](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B4%D0%BE-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D1%83)
-- [Вимоги до SEO оптимизації ](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B4%D0%BE-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D1%83)
+- [4.Вимоги до хостингу](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B4%D0%BE-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D1%83)
+- [5.Вимоги до SEO оптимизації ](https://github.com/Mai-sudo/WebTesing/blob/main/Readme.md#%D0%B2%D0%B8%D0%BC%D0%BE%D0%B3%D0%B8-%D0%B4%D0%BE-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D1%83)
 
 ## 1.Мета сайту
 Мета сайту полегшення продажу та швидкісного пошуку, бронювання та купівл ж/д квитків на поїзд онлайн.
@@ -87,14 +87,14 @@
 
 <img center src="https://i2.paste.pics/DYC7P.png" width="634" height="92" alt="Screenshot">
 
-## Вимоги до функціоналу
-### Стек технології
+## 3.Вимоги до функціоналу
+### 3.1 Стек технології
 
   - JavaScript
   - HTML/CSS
   - MySql
 
-### Функціонал сайту
+### 3.2 Функціонал сайту
 Видвідувачі нашого сайту можуть:
 
   - Обрати місце відправлення за допомогую вводу данів та випадаючого списку в рядку;
@@ -112,7 +112,7 @@
   - Завантаження квітків PDF;
   - Надислання квитків на электронну пошту;
 
-## Вимоги до хостингу
+## 4.Вимоги до хостингу
   - підтрімка MySql;
   - Високий рівень безпеки (Безпека персональних даних;
   - Підтримка високого графіку;
@@ -120,7 +120,7 @@
   
 Найкращим варіантом вважаємо віртуальний хостинг. Отже хостинг сайту буде проводитися на cloud.google.com
 
-## Вимоги до SEO оптимизації 
+## 5.Вимоги до SEO оптимизації 
 Для SEO оптимізації ми обрали наступні ключові фрази:
 
 <table border="1" cellspacing="0">
